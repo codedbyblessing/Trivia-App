@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 
 
-[Guide]](https://youtube.com/shorts/j6m1TNPbMAU?feature=share) .
+[Guide](https://youtube.com/shorts/j6m1TNPbMAU?feature=share) .
 
 ## Notes
 
