@@ -1,4 +1,4 @@
-# Project 3 - *Name of App Here*
+# Project 3 - *Trivia with Disney*
 
 Submitted by: **Blessing Yeboah**
 
@@ -28,9 +28,9 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+
+[Guide]](https://youtube.com/shorts/j6m1TNPbMAU?feature=share) .
 
 ## Notes
 
