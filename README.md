@@ -1,4 +1,4 @@
-# Project 3 - *Trivia Game *
+# Project 3 - *Trivia Game*
 
 Submitted by: **Blessing Yeboah**
 
