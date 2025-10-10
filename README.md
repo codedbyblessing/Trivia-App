@@ -1,4 +1,4 @@
-# Project 3 - *Trivia with Disney*
+# Project 3 - *Trivia Game *
 
 Submitted by: **Blessing Yeboah**
 
@@ -29,6 +29,7 @@ I added backgrounds to indicate the correct and inccorect answer choice for the 
 
 ## Video Walkthrough
 
+Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
 [Guide](https://youtu.be/LevUJ61B4VY) .
 
